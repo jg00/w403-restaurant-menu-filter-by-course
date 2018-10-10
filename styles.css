@@ -1,0 +1,14 @@
+@media (max-width: 490px) {
+    #container {
+        background-color:lightseagreen;
+    }
+ }
+ 
+ 
+ @media (min-width: 491px) {
+     #container {
+         display: flex;
+         background-color: pink;
+     }
+ }
+ 
